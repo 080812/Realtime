@@ -1,0 +1,23 @@
+#start,#noofobjects,#status{
+    font-size: 18px;
+}
+
+.heading{
+    font-size: 25px;
+}
+
+.copyrightfooter{
+    position: fixed;
+    bottom: 0;
+    background-color: aqua;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+    margin-top: 210px;
+    box-shadow: 5px 5px 5px palevioletred;
+}
